@@ -1,0 +1,6 @@
+.vpprefdata/*
+tmp/*
+# ignore Visual Paradigm Settings and temporary files
+
+*.vpp.*
+# ignore VP projects backups
